@@ -74,6 +74,7 @@ public class cancelpage extends HttpServlet {
 								out.println("<th>"+date+"</th>");
 								out.println("<th>"+stat+"</th>");
 								out.println("</tr>");
+								//test
 							}
 							out.println("<table>");
 				}
